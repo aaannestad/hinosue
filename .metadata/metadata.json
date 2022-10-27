@@ -1,0 +1,13 @@
+{
+  "name": "Hi no Sue no Kuni",
+  "id": "hinosue",
+  "version": "0.0.1",
+  "supported_game_version": "1.0.3",
+  "short_description": "Hi no Sue",
+  "tags": ["alternate history"],
+  "relationships": [],
+  "game_custom_data": {
+    "multiplayer_synchronized": true,
+    "replace_paths": ["common/country_creation", "common/cultures"]
+  }
+}

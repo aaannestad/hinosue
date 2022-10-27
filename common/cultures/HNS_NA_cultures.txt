@@ -1,0 +1,43 @@
+nichimatsu = {
+    color={}
+    religion = catholic
+    traits = { yamato east_asian_heritage }
+    male_common_first_names = {
+
+    }
+    female_common_first_names = {
+
+    }
+    noble_last_names = {
+
+    }
+    common_last_names = {
+
+    }
+    ethnicities = {
+        1 = asian
+    }
+    graphics = asian
+}
+
+nichimatsu = {
+    color={}
+    religion = mahayana
+    traits = { yamato east_asian_heritage }
+    male_common_first_names = {
+
+    }
+    female_common_first_names = {
+
+    }
+    noble_last_names = {
+
+    }
+    common_last_names = {
+
+    }
+    ethnicities = {
+        1 = asian
+    }
+    graphics = asian
+}

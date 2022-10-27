@@ -1,0 +1,16 @@
+NCM = { #Nichimatsu
+    #color
+    country_type = colonial
+    tier = kingdom
+    cultures = { nichimatsu }
+    capital = STATE_SEI_YOFANE
+}
+
+JRK = { #Jouriku
+    #color
+    country_type = colonial
+    tier = kingdom
+    cultures = { jouriku }
+    capital = STATE_NANJOU
+
+}
