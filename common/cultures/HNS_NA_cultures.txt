@@ -20,7 +20,7 @@ nichimatsu = {
     graphics = asian
 }
 
-nichimatsu = {
+jouriku = {
     color={}
     religion = mahayana
     traits = { yamato east_asian_heritage }
