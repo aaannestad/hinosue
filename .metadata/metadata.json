@@ -8,6 +8,10 @@
   "relationships": [],
   "game_custom_data": {
     "multiplayer_synchronized": true,
-    "replace_paths": ["common/country_creation", "common/cultures"]
+    "replace_paths": [
+      "common/country_creation",
+      "common/cultures",
+      "common/history"
+    ]
   }
 }
